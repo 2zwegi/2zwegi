@@ -25,6 +25,7 @@ How it's built: [thinflow-showcase](https://github.com/2zwegi/thinflow-showcase)
 
 - [**thinflow-showcase**](https://github.com/2zwegi/thinflow-showcase): what ThinFlow does and how it's built
 - [**n8n-workflows**](https://github.com/2zwegi/n8n-workflows): production n8n automations (AI Messenger agents with RAG, lead capture to CRM, WhatsApp broadcast with tracking)
+- **Verfet** (private, 2025): a platform for issuing and verifying digital certificates. QR-code verification, bulk issuance from Excel, CSV or pasted text parsed by an LLM, and a wallet for recipients. Next.js, Supabase, DeepSeek; deployed on Azure.
 
 ### Contact
 
